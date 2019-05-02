@@ -14,3 +14,20 @@
   font-style: italic;
   font-stretch: extra-expanded;
 }
+.column {
+  width: 400px;
+  float: right;
+  background-color: lightblue;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightpink;
+}
+.box {
+  border: 5px solid blue;
+  padding: 3px;
+  margin: 3px;
+  background-color: lightpink;
+  text-align: center;
+}
