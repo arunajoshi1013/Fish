@@ -1,0 +1,16 @@
+.important {
+  color: purple;
+}
+
+.unimportant {
+  color: green;
+}
+
+.highlight {
+  font-style: oblique;
+  font-weight: bold;
+}
+.fish-type {
+  font-style: italic;
+  font-stretch: extra-expanded;
+}
